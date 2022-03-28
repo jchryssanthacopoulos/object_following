@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>photo_101.jpg</filename>
+	<path>/Users/jamesc/src/object_following/data/training/images/photo_101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2013</width>
+		<height>2991</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kdot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1061</xmin>
+			<ymin>999</ymin>
+			<xmax>1402</xmax>
+			<ymax>1373</ymax>
+		</bndbox>
+	</object>
+</annotation>
