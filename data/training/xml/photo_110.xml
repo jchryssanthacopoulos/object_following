@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>photo_110.jpg</filename>
+	<path>/Users/jamesc/src/object_following/data/training/images/photo_110.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bella</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>266</ymin>
+			<xmax>1997</xmax>
+			<ymax>2821</ymax>
+		</bndbox>
+	</object>
+</annotation>
